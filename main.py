@@ -1,8 +1,8 @@
-import saluto
+import saluto_Candela_Gruppo_6
 
 saluto()
 
-import saluto_Cavallari
+import saluto_Cavallari_Gruppo_6
 
 saluto()
 
