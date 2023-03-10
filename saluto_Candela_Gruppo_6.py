@@ -1,3 +1,3 @@
 def saluto():
-    saluto = " Saluti da Nikolas Candela"
+    print(" Saluti da Nikolas Candela")
 saluto()
